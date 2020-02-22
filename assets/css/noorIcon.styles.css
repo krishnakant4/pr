@@ -1,0 +1,2285 @@
+@font-face {
+    font-family: 'noorv2';
+    src: url('../fonts/noorv2.eot?5yhpot');
+    src: url('../fonts/noorv2.eot?5yhpot#iefix') format('embedded-opentype'), url('../fonts/noorv2.ttf?5yhpot') format('truetype'), url('../fonts/noorv2.woff?5yhpot') format('woff'), url('../fonts/noorv2.svg?5yhpot#noorv2') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'noorv2' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-line-fifteen25:before {
+    content: "\ead5";
+}
+
+.icon-line-fourteen25:before {
+    content: "\ead6";
+}
+
+.icon-line-thirteen25:before {
+    content: "\ead7";
+}
+
+.icon-line-twelve25:before {
+    content: "\ead8";
+}
+
+.icon-line-eleven25:before {
+    content: "\ead9";
+}
+
+.icon-line-ten25:before {
+    content: "\eada";
+}
+
+.icon-line-nine25:before {
+    content: "\eadb";
+}
+
+.icon-line-eight25:before {
+    content: "\eadc";
+}
+
+.icon-line-seven25:before {
+    content: "\eadd";
+}
+
+.icon-line-six25:before {
+    content: "\eade";
+}
+
+.icon-line-five25:before {
+    content: "\eadf";
+}
+
+.icon-line-four25:before {
+    content: "\eae0";
+}
+
+.icon-line-three25:before {
+    content: "\eae1";
+}
+
+.icon-line-two25:before {
+    content: "\eae2";
+}
+
+.icon-line-one25:before {
+    content: "\eae3";
+}
+
+.icon-circle_d6:before {
+    content: "\ead4";
+}
+
+.icon-circle_d5:before {
+    content: "\eacf";
+}
+
+.icon-circle_d4:before {
+    content: "\ead0";
+}
+
+.icon-circle_d3:before {
+    content: "\ead1";
+}
+
+.icon-circle_d2:before {
+    content: "\ead2";
+}
+
+.icon-circle_dash:before {
+    content: "\ead3";
+}
+
+.icon-assign:before {
+    content: "\eacc";
+}
+
+.icon-style-shape-sixteen:before {
+    content: "\eacd";
+}
+
+.icon-style-shape-fifteen:before {
+    content: "\eace";
+}
+
+.icon-style-shape-fourteen:before {
+    content: "\eac6";
+}
+
+.icon-style-shape-thirteen:before {
+    content: "\eac7";
+}
+
+.icon-style-shape-tweleve:before {
+    content: "\eac8";
+}
+
+.icon-style-shape-eleven:before {
+    content: "\eac9";
+}
+
+.icon-style-shape-ten:before {
+    content: "\eaca";
+}
+
+.icon-style-shape-nine:before {
+    content: "\eacb";
+}
+
+.icon-style-shape-eight:before {
+    content: "\eac3";
+}
+
+.icon-style-shape-seven:before {
+    content: "\eac4";
+}
+
+.icon-style-shape-six:before {
+    content: "\eac5";
+}
+
+.icon-style-shape-five:before {
+    content: "\eabe";
+}
+
+.icon-style-shape-four:before {
+    content: "\eabf";
+}
+
+.icon-style-shape-three:before {
+    content: "\eac0";
+}
+
+.icon-style-shape-one:before {
+    content: "\eac1";
+}
+
+.icon-style-shape-two:before {
+    content: "\eac2";
+}
+
+.icon-line-fifteen:before {
+    content: "\eaaf";
+}
+
+.icon-line-fourteen:before {
+    content: "\eab0";
+}
+
+.icon-line-thirteen:before {
+    content: "\eab1";
+}
+
+.icon-line-twelve:before {
+    content: "\eab2";
+}
+
+.icon-line-eleven:before {
+    content: "\eab3";
+}
+
+.icon-line-ten:before {
+    content: "\eab4";
+}
+
+.icon-line-nine:before {
+    content: "\eab5";
+}
+
+.icon-line-eight:before {
+    content: "\eab6";
+}
+
+.icon-line-seven:before {
+    content: "\eab7";
+}
+
+.icon-line-six:before {
+    content: "\eab8";
+}
+
+.icon-line-five:before {
+    content: "\eab9";
+}
+
+.icon-line-four:before {
+    content: "\eaba";
+}
+
+.icon-line-three:before {
+    content: "\eabb";
+}
+
+.icon-line-two:before {
+    content: "\eabc";
+}
+
+.icon-line-one:before {
+    content: "\eabd";
+}
+
+.icon-chat-buble-five:before {
+    content: "\eaa8";
+}
+
+.icon-chat-buble-four:before {
+    content: "\eaa9";
+}
+
+.icon-chat-buble-two:before {
+    content: "\eaaa";
+}
+
+.icon-chat-buble-seven:before {
+    content: "\eaab";
+}
+
+.icon-chat-buble-three:before {
+    content: "\eaac";
+}
+
+.icon-add-circ-shapes:before {
+    content: "\eaad";
+}
+
+.icon-add-rect-shapes:before {
+    content: "\eaae";
+}
+
+.icon-album-book:before {
+    content: "\eaa7";
+}
+
+.icon-link-straight-line:before {
+    content: "\eaa2";
+    color: #787878;
+}
+
+.icon-three-d-back:before {
+    content: "\eaa3";
+}
+
+.icon-three-d-config:before {
+    content: "\eaa4";
+}
+
+.icon-three-d-add:before {
+    content: "\eaa5";
+}
+
+.icon-three-d-line:before {
+    content: "\eaa6";
+}
+
+.icon-Page-with-lines:before {
+    content: "\eaa1";
+}
+
+.icon-round_rectangle_d5:before {
+    content: "\ea99";
+}
+
+.icon-round_rectangle_d4:before {
+    content: "\ea9a";
+}
+
+.icon-round_rectangle_d3:before {
+    content: "\ea9b";
+}
+
+.icon-round_rectangle_d2:before {
+    content: "\ea9c";
+}
+
+.icon-round_rectangle_dash:before {
+    content: "\ea9d";
+}
+
+.icon-round_rectangle_dot:before {
+    content: "\ea9e";
+}
+
+.icon-round_rectangle_line:before {
+    content: "\ea9f";
+}
+
+.icon-round_rectangle:before {
+    content: "\eaa0";
+}
+
+.icon-page-from-book-new:before {
+    content: "\ea98";
+}
+
+.icon-link-share-line:before {
+    content: "\ea95";
+    color: #787878;
+}
+
+.icon-link-hide-line:before {
+    content: "\ea96";
+}
+
+.icon-link-add-line:before {
+    content: "\ea97";
+    color: #787878;
+}
+
+.icon-link-right-line:before {
+    content: "\ea93";
+}
+
+.icon-like-fill:before {
+    content: "\ea94";
+}
+
+.icon-like-line:before {
+    content: "\ea92";
+}
+
+.icon-Browser:before {
+    content: "\e900";
+}
+
+.icon-Image:before {
+    content: "\e901";
+}
+
+.icon-Video:before {
+    content: "\e902";
+}
+
+.icon-Text-Color:before {
+    content: "\e903";
+}
+
+.icon-Text-Style:before {
+    content: "\e904";
+}
+
+.icon-Text-Size:before {
+    content: "\e905";
+}
+
+.icon-Text:before {
+    content: "\e906";
+}
+
+.icon-Shapes:before {
+    content: "\e907";
+}
+
+.icon-Media:before {
+    content: "\e908";
+}
+
+.icon-Close:before {
+    content: "\e909";
+}
+
+.icon-Sort-Up:before {
+    content: "\e90a";
+}
+
+.icon-Sort-Down:before {
+    content: "\e90b";
+}
+
+.icon-Delete:before {
+    content: "\e90c";
+}
+
+.icon-Connect:before {
+    content: "\e90d";
+}
+
+.icon-Tests:before {
+    content: "\e90e";
+}
+
+.icon-Content:before {
+    content: "\e90f";
+}
+
+.icon-Add:before {
+    content: "\e910";
+}
+
+.icon-Info:before {
+    content: "\e911";
+}
+
+.icon-Burger-Menu:before {
+    content: "\e912";
+}
+
+.icon-List:before {
+    content: "\e913";
+}
+
+.icon-TopButton:before {
+    content: "\e914";
+}
+
+.icon-BottomButton:before {
+    content: "\e915";
+}
+
+.icon-Clean-Drawing:before {
+    content: "\e916";
+}
+
+.icon-Drawing-New:before {
+    content: "\e917";
+}
+
+.icon-Rectangle:before {
+    content: "\e918";
+}
+
+.icon-Circle:before {
+    content: "\e919";
+}
+
+.icon-My-Templates:before {
+    content: "\e91a";
+}
+
+.icon-Clean-Back:before {
+    content: "\e91b";
+}
+
+.icon-Media-Back:before {
+    content: "\e91c";
+}
+
+.icon-Text-Back:before {
+    content: "\e91d";
+}
+
+.icon-structure:before {
+    content: "\e91e";
+}
+
+.icon-Online-Enrichment:before {
+    content: "\e91f";
+}
+
+.icon-A:before {
+    content: "\e920";
+}
+
+.icon-E:before {
+    content: "\e921";
+}
+
+.icon-All-2:before {
+    content: "\e922";
+}
+
+.icon-Print:before {
+    content: "\e923";
+}
+
+.icon-Reports:before {
+    content: "\e924";
+}
+
+.icon-Feedback:before {
+    content: "\e925";
+}
+
+.icon-Checked:before {
+    content: "\e926";
+}
+
+.icon-Spread-Sheet:before {
+    content: "\e927";
+}
+
+.icon-Google-Docs:before {
+    content: "\e928";
+}
+
+.icon-Google-Maps:before {
+    content: "\e929";
+}
+
+.icon-Youtube:before {
+    content: "\e92a";
+}
+
+.icon-Duplicate-as-Image:before {
+    content: "\e92b";
+}
+
+.icon-Internet-search:before {
+    content: "\e92c";
+}
+
+.icon-Duplicate-as-page:before {
+    content: "\e92d";
+}
+
+.icon-Blank-page:before {
+    content: "\e92e";
+}
+
+.icon-Gallery:before {
+    content: "\e92f";
+}
+
+.icon-Front-to-Back:before {
+    content: "\e930";
+}
+
+.icon-Back-to-Front:before {
+    content: "\e931";
+}
+
+.icon-Clean:before {
+    content: "\e932";
+}
+
+.icon-Page-from-book:before {
+    content: "\e933";
+}
+
+.icon-Camera:before {
+    content: "\e934";
+}
+
+.icon-Video-Back:before {
+    content: "\e935";
+}
+
+.icon-Image-Back:before {
+    content: "\e936";
+}
+
+.icon-Gallery-Back:before {
+    content: "\e937";
+}
+
+.icon-Camera-Back:before {
+    content: "\e938";
+}
+
+.icon-All-Circle:before {
+    content: "\e939";
+}
+
+.icon-Cart-New:before {
+    content: "\e93a";
+}
+
+.icon-Highlight:before {
+    content: "\e93b";
+}
+
+.icon-Google-Calendar:before {
+    content: "\e93c";
+}
+
+.icon-Add-Video:before {
+    content: "\e93d";
+}
+
+.icon-LeftButton:before {
+    content: "\e93e";
+}
+
+.icon-Close-Circle:before {
+    content: "\e93f";
+}
+
+.icon-Add-Text:before {
+    content: "\e940";
+}
+
+.icon-Add-Image-Main:before {
+    content: "\e941";
+}
+
+.icon-BookMark-Fill:before {
+    content: "\e942";
+}
+
+.icon-Right:before {
+    content: "\e943";
+}
+
+.icon-Left:before {
+    content: "\e944";
+}
+
+.icon-Center:before {
+    content: "\e945";
+}
+
+.icon-Full-View:before {
+    content: "\e946";
+}
+
+.icon-Copy:before {
+    content: "\e947";
+}
+
+.icon-Underline-2:before {
+    content: "\e948";
+}
+
+.icon-Bold-2:before {
+    content: "\e949";
+}
+
+.icon-Italic-2:before {
+    content: "\e94a";
+}
+
+.icon-Add-Left:before {
+    content: "\e94b";
+}
+
+.icon-Add-Right:before {
+    content: "\e94c";
+}
+
+.icon-Close-Line:before {
+    content: "\e94d";
+}
+
+.icon-Add-Line:before {
+    content: "\e94e";
+}
+
+.icon-Arrow-Down-Fill:before {
+    content: "\e94f";
+}
+
+.icon-Arrow-Up-Fill:before {
+    content: "\e950";
+}
+
+.icon-SubScript:before {
+    content: "\e951";
+}
+
+.icon-SuperScript:before {
+    content: "\e952";
+}
+
+.icon-Url:before {
+    content: "\e953";
+}
+
+.icon-UrlBack:before {
+    content: "\e954";
+}
+
+.icon-RightButton:before {
+    content: "\e955";
+}
+
+.icon-Book-Download:before {
+    content: "\e956";
+}
+
+.icon-AddUrl:before {
+    content: "\e957";
+}
+
+.icon-UrlInput:before {
+    content: "\e958";
+}
+
+.icon-AudioRecord:before {
+    content: "\e959";
+}
+
+.icon-Audio-Back:before {
+    content: "\e95a";
+}
+
+.icon-ImageRotate:before {
+    content: "\e95b";
+}
+
+.icon-Aspect_ratio:before {
+    content: "\e95c";
+}
+
+.icon-Pagination:before {
+    content: "\e95d";
+}
+
+.icon-Background:before {
+    content: "\e95e";
+}
+
+.icon-BackgroundImage:before {
+    content: "\e95f";
+}
+
+.icon-BackgroundColour:before {
+    content: "\e960";
+}
+
+.icon-FillUp:before {
+    content: "\e961";
+}
+
+.icon-TrueOrFalse3:before {
+    content: "\e962";
+}
+
+.icon-QuestionMark:before {
+    content: "\e963";
+}
+
+.icon-Symbols:before {
+    content: "\e964";
+}
+
+.icon-Inline-Image:before {
+    content: "\e965";
+}
+
+.icon-Save-Enrichment:before {
+    content: "\e966";
+}
+
+.icon-Text_bg_colour:before {
+    content: "\e967";
+}
+
+.icon-OrderedList:before {
+    content: "\e968";
+}
+
+.icon-Justify_line:before {
+    content: "\e969";
+}
+
+.icon-pagination_top_right:before {
+    content: "\e96a";
+}
+
+.icon-pagination_top_center:before {
+    content: "\e96b";
+}
+
+.icon-pagination_top_left:before {
+    content: "\e96c";
+}
+
+.icon-pagination_bottom_left:before {
+    content: "\e96d";
+}
+
+.icon-pagination_bottom_center:before {
+    content: "\e96e";
+}
+
+.icon-pagination_bottom_right:before {
+    content: "\e96f";
+}
+
+.icon-StrikeThrough:before {
+    content: "\e970";
+}
+
+.icon-Full-View_down:before {
+    content: "\e971";
+}
+
+.icon-TextSymbols:before {
+    content: "\e972";
+}
+
+.icon-FormatPaint_line:before {
+    content: "\e973";
+}
+
+.icon-StanderdFunctions:before {
+    content: "\e974";
+}
+
+.icon-UpperGreak:before {
+    content: "\e975";
+}
+
+.icon-Brackets:before {
+    content: "\e976";
+}
+
+.icon-BinaryRelations:before {
+    content: "\e977";
+}
+
+.icon-BigOperators:before {
+    content: "\e978";
+}
+
+.icon-BineryOperators:before {
+    content: "\e979";
+}
+
+.icon-Miscellaneous:before {
+    content: "\e97a";
+}
+
+.icon-LowerGreak:before {
+    content: "\e97b";
+}
+
+.icon-AR_Symbol:before {
+    content: "\e97c";
+}
+
+.icon-Width:before {
+    content: "\e97d";
+}
+
+.icon-Case_sensitive:before {
+    content: "\e97e";
+}
+
+.icon-Export:before {
+    content: "\e97f";
+}
+
+.icon-Book-Move:before {
+    content: "\e980";
+}
+
+.icon-Cloud-Upload:before {
+    content: "\e981";
+}
+
+.icon-Page-No-Position:before {
+    content: "\e982";
+}
+
+.icon-Page-No-Back:before {
+    content: "\e983";
+}
+
+.icon-Page-No:before {
+    content: "\e984";
+}
+
+.icon-Eraser:before {
+    content: "\e985";
+}
+
+.icon-Apply-to-all-pages:before {
+    content: "\e986";
+}
+
+.icon-Apply-to-page:before {
+    content: "\e987";
+}
+
+.icon-Arrow-Right-Fill:before {
+    content: "\e988";
+}
+
+.icon-Background-Back:before {
+    content: "\e989";
+}
+
+.icon-Inline-Image-Fill:before {
+    content: "\e98a";
+}
+
+.icon-Image-Fill:before {
+    content: "\e98b";
+}
+
+.icon-Redo:before {
+    content: "\e98c";
+}
+
+.icon-Undo:before {
+    content: "\e98d";
+}
+
+.icon-Search:before {
+    content: "\e98e";
+}
+
+.icon-Livepreview:before {
+    content: "\e98f";
+}
+
+.icon-Save-Enrichment-New:before {
+    content: "\e990";
+}
+
+.icon-Album:before {
+    content: "\e991";
+}
+
+.icon-Web-Book:before {
+    content: "\e992";
+}
+
+.icon-Book:before {
+    content: "\e993";
+}
+
+.icon-Wishlist-New:before {
+    content: "\e994";
+}
+
+.icon-My-Drive:before {
+    content: "\e995";
+}
+
+.icon-Shared-with-me:before {
+    content: "\e996";
+}
+
+.icon-Live-Preview-3:before {
+    content: "\e997";
+}
+
+.icon-Image-Configure:before {
+    content: "\e998";
+}
+
+.icon-QuestionMarkNew:before {
+    content: "\e999";
+}
+
+.icon-Text-Question-Back:before {
+    content: "\e99a";
+}
+
+.icon-Back-TrueOrFalse:before {
+    content: "\e99b";
+}
+
+.icon-Add-True-Or-False:before {
+    content: "\e99c";
+}
+
+.icon-Add-FillUp:before {
+    content: "\e99d";
+}
+
+.icon-FillUp-Back:before {
+    content: "\e99e";
+}
+
+.icon-Main-Add-Inline-Image:before {
+    content: "\e99f";
+}
+
+.icon-Add-Inline-Image:before {
+    content: "\e9a0";
+}
+
+.icon-Shape-Back:before {
+    content: "\e9a1";
+}
+
+.icon-Inline-Image-New:before {
+    content: "\e9a2";
+}
+
+.icon-Add-Image-in-new:before {
+    content: "\e9a3";
+}
+
+.icon-Browse-Image:before {
+    content: "\e9a4";
+}
+
+.icon-Text-Style-New:before {
+    content: "\e9a5";
+}
+
+.icon-Select-Image:before {
+    content: "\e9a6";
+}
+
+.icon-Background-color-in:before {
+    content: "\e9a7";
+}
+
+.icon-Background-new-in:before {
+    content: "\e9a8";
+}
+
+.icon-Move-to-Folder:before {
+    content: "\e9a9";
+}
+
+.icon-Back-Media-new:before {
+    content: "\e9aa";
+}
+
+.icon-Media-new:before {
+    content: "\e9ab";
+}
+
+.icon-Add-Image-Back:before {
+    content: "\e9ac";
+}
+
+.icon-Main-Add-Inline-Image-Back:before {
+    content: "\e9ad";
+}
+
+.icon-Book-Upload:before {
+    content: "\e9ae";
+}
+
+.icon-Browse-Audio-line:before {
+    content: "\e9af";
+}
+
+.icon-Video-Configure:before {
+    content: "\e9b0";
+}
+
+.icon-Text-Inline-Image:before {
+    content: "\e9b1";
+}
+
+.icon-Inline-Image-Back:before {
+    content: "\e9b2";
+}
+
+.icon-Text-Image:before {
+    content: "\e9b3";
+}
+
+.icon-Divice-Gallery:before {
+    content: "\e9b4";
+}
+
+.icon-Image-Gallery:before {
+    content: "\e9b5";
+}
+
+.icon-Text-Image-Configure:before {
+    content: "\e9b6";
+}
+
+.icon-Text-Inline-Image-Configure:before {
+    content: "\e9b7";
+}
+
+.icon-Add-Text-Inline-Image:before {
+    content: "\e9b8";
+}
+
+.icon-Add-Text-Image:before {
+    content: "\e9b9";
+}
+
+.icon-Text-Inline-Image-Back:before {
+    content: "\e9ba";
+}
+
+.icon-Text-Image-Back:before {
+    content: "\e9bb";
+}
+
+.icon-Text-Fillup-Configure:before {
+    content: "\e9bc";
+}
+
+.icon-Text-Fillup-Back:before {
+    content: "\e9bd";
+}
+
+.icon-Text-Fillup-Add:before {
+    content: "\e9be";
+}
+
+.icon-Text-Fillup:before {
+    content: "\e9bf";
+}
+
+.icon-Text-Media:before {
+    content: "\e9c0";
+}
+
+.icon-Add-Audio-line:before {
+    content: "\e9c1";
+}
+
+.icon-Audio-line-Configure:before {
+    content: "\e9c2";
+}
+
+.icon-Text-Media-Back:before {
+    content: "\e9c3";
+}
+
+.icon-Background-New:before {
+    content: "\e9c4";
+}
+
+.icon-page-structurev:before {
+    content: "\e9c5";
+}
+
+.icon-Save-as-Template:before {
+    content: "\e9c6";
+}
+
+.icon-Text-True-r-False-Configure:before {
+    content: "\e9c7";
+}
+
+.icon-Background-Image-new-Back:before {
+    content: "\e9c8";
+}
+
+.icon-Background-Image-new-Configure:before {
+    content: "\e9c9";
+}
+
+.icon-Text-True-r-False-Back:before {
+    content: "\e9ca";
+}
+
+.icon-Add-Text-True-r-False:before {
+    content: "\e9cb";
+}
+
+.icon-Text-True-r-False:before {
+    content: "\e9cc";
+}
+
+.icon-Page-Preview:before {
+    content: "\e9cd";
+}
+
+.icon-Background-New-Back:before {
+    content: "\e9ce";
+}
+
+.icon-Audio-Gallery:before {
+    content: "\e9cf";
+}
+
+.icon-Video-Gallery:before {
+    content: "\e9d0";
+}
+
+.icon-Divice-Audio-Gallery:before {
+    content: "\e9d1";
+}
+
+.icon-Divice-Video-Gallery:before {
+    content: "\e9d2";
+}
+
+.icon-TextDirectionR-New:before {
+    content: "\e9d3";
+}
+
+.icon-TextDirectionL-New:before {
+    content: "\e9d4";
+}
+
+.icon-Communication:before {
+    content: "\e9d5";
+}
+
+.icon-Annotation:before {
+    content: "\e9d6";
+}
+
+.icon-wishlist-added:before {
+    content: "\e9d7";
+}
+
+.icon-Wishlist:before {
+    content: "\e9d8";
+}
+
+.icon-Add-Text-Inline-Image2:before {
+    content: "\e9d9";
+}
+
+.icon-Content-Alignment-2:before {
+    content: "\e9da";
+}
+
+.icon-Indent-2:before {
+    content: "\e9db";
+}
+
+.icon-Outdent-2:before {
+    content: "\e9dc";
+}
+
+.icon-TextIndent-2:before {
+    content: "\e9dd";
+}
+
+.icon-HorizontalAlignmentCenter-2:before {
+    content: "\e9de";
+}
+
+.icon-VerticalAlignmentCenter-2:before {
+    content: "\e9df";
+}
+
+.icon-RightAlignment-2:before {
+    content: "\e9e0";
+}
+
+.icon-LeftAlignment-2:before {
+    content: "\e9e1";
+}
+
+.icon-VerticalAlignmentBottom-2:before {
+    content: "\e9e2";
+}
+
+.icon-VerticalAlignmentTop-2:before {
+    content: "\e9e3";
+}
+
+.icon-check-selected:before {
+    content: "\e9e4";
+}
+
+.icon-check-select:before {
+    content: "\e9e5";
+}
+
+.icon-TopButton2:before {
+    content: "\e9e6";
+}
+
+.icon-BottomButton2:before {
+    content: "\e9e7";
+}
+
+.icon-Expand-Circle:before {
+    content: "\e9e8";
+}
+
+.icon-Flip-Left:before {
+    content: "\e9e9";
+}
+
+.icon-Flip-Right:before {
+    content: "\e9ea";
+}
+
+.icon-lesson-structure-2:before {
+    content: "\e9eb";
+}
+
+.icon-Shapes-Color:before {
+    content: "\e9ec";
+}
+
+.icon-Page-Clean:before {
+    content: "\e9ed";
+}
+
+.icon-Drawing-Back:before {
+    content: "\e9ee";
+}
+
+.icon-Thumbnail:before {
+    content: "\e9ef";
+}
+
+.icon-Shapes-Back:before {
+    content: "\e9f0";
+}
+
+.icon-Apply-to-All-Backgrounds:before {
+    content: "\e9f1";
+}
+
+.icon-Apply-Current-Background:before {
+    content: "\e9f2";
+}
+
+.icon-Reset-All-Backgrounds:before {
+    content: "\e9f3";
+}
+
+.icon-Reset-All-page:before {
+    content: "\e9f4";
+}
+
+.icon-Reset-Current-Page:before {
+    content: "\e9f5";
+}
+
+.icon-Text-FillupOption-Back:before {
+    content: "\e9f6";
+}
+
+.icon-Text-FillupOption-Configure:before {
+    content: "\e9f7";
+}
+
+.icon-Add-Text-FillupOption:before {
+    content: "\e9f8";
+}
+
+.icon-Text-FillupOption:before {
+    content: "\e9f9";
+}
+
+.icon-FillupOption:before {
+    content: "\e9fa";
+}
+
+.icon-Text-MultiChoice-Back:before {
+    content: "\e9fb";
+}
+
+.icon-Text-MultiChoice-Configure:before {
+    content: "\e9fc";
+}
+
+.icon-Add-Text-MultiChoice:before {
+    content: "\e9fd";
+}
+
+.icon-Text-MultiChoice:before {
+    content: "\e9fe";
+}
+
+.icon-MultiChoice:before {
+    content: "\e9ff";
+}
+
+.icon-Url-R:before {
+    content: "\ea00";
+}
+
+.icon-Reset:before {
+    content: "\ea01";
+}
+
+.icon-Note-Turn-L-R:before {
+    content: "\ea02";
+}
+
+.icon-Note-Turn-R-L:before {
+    content: "\ea03";
+}
+
+.icon-Elesson:before {
+    content: "\ea04";
+}
+
+.icon-Approvals:before {
+    content: "\ea05";
+}
+
+.icon-Engage:before {
+    content: "\ea06";
+}
+
+.icon-Library:before {
+    content: "\ea07";
+}
+
+.icon-Create:before {
+    content: "\ea08";
+}
+
+.icon-Session:before {
+    content: "\ea09";
+}
+
+.icon-Group:before {
+    content: "\ea0a";
+}
+
+.icon-Contact:before {
+    content: "\ea0b";
+}
+
+.icon-Assignments:before {
+    content: "\ea0c";
+}
+
+.icon-Exams:before {
+    content: "\ea0d";
+}
+
+.icon-Book-New:before {
+    content: "\ea0e";
+}
+
+.icon-Editor:before {
+    content: "\ea0f";
+}
+
+.icon-Duplicate:before {
+    content: "\ea10";
+}
+
+.icon-Book-Export-2:before {
+    content: "\ea11";
+}
+
+.icon-Delete-line:before {
+    content: "\ea12";
+}
+
+.icon-Book-LivePreview:before {
+    content: "\ea13";
+}
+
+.icon-List-2:before {
+    content: "\ea14";
+}
+
+.icon-Expand-Fill:before {
+    content: "\ea15";
+}
+
+.icon-Add-Fill:before {
+    content: "\ea16";
+}
+
+.icon-Close-Fill:before {
+    content: "\ea17";
+}
+
+.icon-Add-drawing-new:before {
+    content: "\ea18";
+}
+
+.icon-Enable-drawing-new:before {
+    content: "\ea19";
+}
+
+.icon-Add-Mindmap:before {
+    content: "\ea1a";
+}
+
+.icon-Mindmap-Back:before {
+    content: "\ea1b";
+}
+
+.icon-Mindmap-Configure:before {
+    content: "\ea1c";
+}
+
+.icon-Circle-Select:before {
+    content: "\ea1d";
+}
+
+.icon-Drag-Upload:before {
+    content: "\ea1e";
+}
+
+.icon-Cut:before {
+    content: "\ea1f";
+}
+
+.icon-Rename:before {
+    content: "\ea20";
+}
+
+.icon-Background-Color:before {
+    content: "\ea21";
+}
+
+.icon-Content-Paste-Configure:before {
+    content: "\ea22";
+}
+
+.icon-Copy-Configure:before {
+    content: "\ea23";
+}
+
+.icon-Content_Paste:before {
+    content: "\ea24";
+}
+
+.icon-Circle-Select-New:before {
+    content: "\ea25";
+}
+
+.icon-Connector-three:before {
+    content: "\ea26";
+}
+
+.icon-Connector-two:before {
+    content: "\ea27";
+}
+
+.icon-Connector-one:before {
+    content: "\ea28";
+}
+
+.icon-Connector-Main:before {
+    content: "\ea29";
+}
+
+.icon-Node-Left:before {
+    content: "\ea2a";
+}
+
+.icon-Node-Right:before {
+    content: "\ea2b";
+}
+
+.icon-Shape-three:before {
+    content: "\ea2c";
+}
+
+.icon-Shape-two:before {
+    content: "\ea2d";
+}
+
+.icon-Shape-one:before {
+    content: "\ea2e";
+}
+
+.icon-Shape-Default:before {
+    content: "\ea2f";
+}
+
+.icon-Node-Dif:before {
+    content: "\ea30";
+}
+
+.icon-Shape-nine:before {
+    content: "\ea31";
+}
+
+.icon-Shape-eight:before {
+    content: "\ea32";
+}
+
+.icon-Shape-seven:before {
+    content: "\ea33";
+}
+
+.icon-Shape-six:before {
+    content: "\ea34";
+}
+
+.icon-Shape-five:before {
+    content: "\ea35";
+}
+
+.icon-Shape-four:before {
+    content: "\ea36";
+}
+
+.icon-E-Book-Preview:before {
+    content: "\ea37";
+}
+
+.icon-Elesson-Preview:before {
+    content: "\ea38";
+}
+
+.icon-Save_line:before {
+    content: "\ea39";
+}
+
+.icon-MakePublic:before {
+    content: "\ea3a";
+}
+
+.icon-Preview:before {
+    content: "\ea3b";
+}
+
+.icon-OptionsMore:before {
+    content: "\ea3c";
+}
+
+.icon-AllPages:before {
+    content: "\ea3d";
+}
+
+.icon-Open:before {
+    content: "\ea3e";
+}
+
+.icon-AddBook_2:before {
+    content: "\ea3f";
+}
+
+.icon-NewFile:before {
+    content: "\ea40";
+}
+
+.icon-E-LessonMode2:before {
+    content: "\ea41";
+}
+
+.icon-Users:before {
+    content: "\ea42";
+}
+
+.icon-Wifi:before {
+    content: "\ea43";
+}
+
+.icon-Settings-New:before {
+    content: "\ea44";
+}
+
+.icon-Lock-New:before {
+    content: "\ea45";
+}
+
+.icon-Unlock-New:before {
+    content: "\ea46";
+}
+
+.icon-Audio-Gallery-Back:before {
+    content: "\ea47";
+}
+
+.icon-Video-Gallery-Back:before {
+    content: "\ea48";
+}
+
+.icon-Image-Gallery-Back:before {
+    content: "\ea49";
+}
+
+.icon-big-cloud2-Back:before {
+    content: "\ea4a";
+}
+
+.icon-Connector-one-Thick:before {
+    content: "\ea4b";
+}
+
+.icon-TextDirection-New:before {
+    content: "\ea4c";
+}
+
+.icon-Preferences:before {
+    content: "\ea4d";
+}
+
+.icon-Learning-path:before {
+    content: "\ea4e";
+}
+
+.icon-Node-Main:before {
+    content: "\ea4f";
+}
+
+.icon-Upload-Link:before {
+    content: "\ea50";
+}
+
+.icon-Add-Link-Default:before {
+    content: "\ea51";
+}
+
+.icon-Planner:before {
+    content: "\ea52";
+}
+
+.icon-Completion:before {
+    content: "\ea53";
+}
+
+.icon-Priority:before {
+    content: "\ea54";
+}
+
+.icon-Add-3D-Shapes:before {
+    content: "\ea55";
+}
+
+.icon-Add-Shapes:before {
+    content: "\ea56";
+}
+
+.icon-Add-Slyles:before {
+    content: "\ea57";
+}
+
+.icon-Add-Link:before {
+    content: "\ea58";
+}
+
+.icon-E-mail:before {
+    content: "\ea59";
+}
+
+.icon-Video-Disable:before {
+    content: "\ea5a";
+}
+
+.icon-PDF-Upload:before {
+    content: "\ea5b";
+}
+
+.icon-Session-Call:before {
+    content: "\ea5c";
+}
+
+.icon-Audio-line-Disable:before {
+    content: "\ea5d";
+}
+
+.icon-Video-For-Call:before {
+    content: "\ea5e";
+}
+
+.icon-Audio-For-Call:before {
+    content: "\ea5f";
+}
+
+.icon-Square-Block:before {
+    content: "\ea60";
+}
+
+.icon-Circle-Block:before {
+    content: "\ea61";
+}
+
+.icon-Use-Audio:before {
+    content: "\ea62";
+}
+
+.icon-Play:before {
+    content: "\ea63";
+}
+
+.icon-Audio-Libreri:before {
+    content: "\ea64";
+}
+
+.icon-MInus-Line:before {
+    content: "\ea65";
+}
+
+.icon-Duplicate-2:before {
+    content: "\ea66";
+}
+
+.icon-Multiple-Options:before {
+    content: "\ea67";
+}
+
+.icon-Configure-Q-A1:before {
+    content: "\ea68";
+}
+
+.icon-Add-Answers:before {
+    content: "\ea69";
+}
+
+.icon-Add-Questions:before {
+    content: "\ea6a";
+}
+
+.icon-Pause:before {
+    content: "\ea6b";
+}
+
+.icon-uniEA6C:before {
+    content: "\ea6c";
+}
+
+.icon-uniEA6D:before {
+    content: "\ea6d";
+}
+
+.icon-Play-fill:before {
+    content: "\ea6e";
+}
+
+.icon-Favourites:before {
+    content: "\ea6f";
+}
+
+.icon-Coming-Soon:before {
+    content: "\ea70";
+}
+
+.icon-Pause-Thin:before {
+    content: "\ea71";
+}
+
+.icon-Resources:before {
+    content: "\ea72";
+}
+
+.icon-Edit-Mindmap:before {
+    content: "\ea73";
+}
+
+.icon-Social-Export:before {
+    content: "\ea74";
+}
+
+.icon-Elesson-Social-Export:before {
+    content: "\ea75";
+}
+
+.icon-Save-Book-as-Lesson:before {
+    content: "\ea76";
+}
+
+.icon-Public-Inbox:before {
+    content: "\ea77";
+}
+
+.icon-Add-Shelf:before {
+    content: "\ea78";
+}
+
+.icon-Nooor-plus:before {
+    content: "\ea79";
+}
+
+.icon-Mail-Sent:before {
+    content: "\ea7a";
+}
+
+.icon-Less-than-Circle:before {
+    content: "\ea7b";
+}
+
+.icon-Greater-than-Circle:before {
+    content: "\ea7c";
+}
+
+.icon-Add-Shelf-New:before {
+    content: "\ea7d";
+}
+
+.icon-Collapse-Square:before {
+    content: "\ea7e";
+}
+
+.icon-Expand-Square:before {
+    content: "\ea7f";
+}
+
+.icon-Collapse:before {
+    content: "\ea80";
+}
+
+.icon-expand:before {
+    content: "\ea81";
+}
+
+.icon-QR-Code:before {
+    content: "\ea82";
+}
+
+.icon-color-picker:before {
+    content: "\ea83";
+}
+
+.icon-PPT-to-Elesson-4:before {
+    content: "\ea84";
+}
+
+.icon-PPT-to-Elesson-5:before {
+    content: "\ea85";
+}
+
+.icon-Activity:before {
+    content: "\ea86";
+}
+
+.icon-Old-Elesson:before {
+    content: "\ea87";
+}
+
+.icon-Quiz-Book:before {
+    content: "\ea88";
+}
+
+.icon-Translate:before {
+    content: "\ea89";
+}
+
+.icon-ImageToTextOCR:before {
+    content: "\ea8a";
+}
+
+.icon-octagon:before {
+    content: "\ea8b";
+}
+
+.icon-VideoRec:before {
+    content: "\ea8c";
+}
+
+.icon-upload-files:before {
+    content: "\ea8d";
+}
+
+.icon-Cloud-restore:before {
+    content: "\ea8e";
+}
+
+.icon-No-Book-Export:before {
+    content: "\ea8f";
+}
+
+.icon-sort_arrows:before {
+    content: "\ea90";
+}
+
+.icon-Book-Export-public:before {
+    content: "\ea91";
+}
+
+.icon-CollectionTemplatesL:before {
+    content: "\eaee";
+}
+
+.icon-big-cloud2:before {
+    content: "\eb46";
+}
+
+.icon-Call:before {
+    content: "\ebd9";
+}
+
+.icon-User:before {
+    content: "\ebe6";
+}
+
+.icon-AddBook_22:before {
+    content: "\ebf3";
+}
+
+.icon-Tick:before {
+    content: "\ec05";
+}
+
+.icon-Filter:before {
+    content: "\ec2b";
+}
+
+.icon-User-Line:before {
+    content: "\ec35";
+}
+
+.icon-Favorites:before {
+    content: "\ec37";
+}
+
+.icon-Backward:before {
+    content: "\ec38";
+}
+
+.icon-Forward:before {
+    content: "\ec39";
+}
+
+.icon-Miss-call:before {
+    content: "\ec3a";
+}
+
+.icon-Outgoing-call:before {
+    content: "\ec3b";
+}
+
+.icon-Incoming-call:before {
+    content: "\ec3c";
+}
+
+.icon-Test-Pending:before {
+    content: "\ec3d";
+}
+
+.icon-Test-Completed:before {
+    content: "\ec3e";
+}
+
+.icon-More-Round-Hori:before {
+    content: "\ec3f";
+}
+
+.icon-More-Round:before {
+    content: "\ec40";
+}
+
+.icon-Share:before {
+    content: "\ec41";
+}
+
+.icon-Chats:before {
+    content: "\ec42";
+}
+
+.icon-Search-Flat:before {
+    content: "\ec43";
+}
+
+.icon-Cart:before {
+    content: "\ec44";
+}
+
+.icon-Notes-V:before {
+    content: "\ec45";
+}
+
+.icon-Notes:before {
+    content: "\ec46";
+}
+
+.icon-Purchases:before {
+    content: "\ec49";
+}
+
+.icon-Create-Folder:before {
+    content: "\ec4a";
+}
+
+.icon-Purchese:before {
+    content: "\ec4c";
+}
+
+.icon-Nooor-Logo:before {
+    content: "\ec4e";
+}
+
+.icon-PDFs:before {
+    content: "\ec53";
+}
+
+.icon-Play-line:before {
+    content: "\ec58";
+}
+
+.icon-Audio-line:before {
+    content: "\ec59";
+}
+
+.icon-False:before {
+    content: "\ec68";
+}
+
+.icon-Pluse-Line:before {
+    content: "\ec6b";
+}
+
+.icon-Grid-view:before {
+    content: "\ec6d";
+}
+
+.icon-One-Drive:before {
+    content: "\ec6e";
+}
+
+.icon-Drop-Box:before {
+    content: "\ec6f";
+}
+
+.icon-Browse-Video:before {
+    content: "\ec70";
+}
+
+.icon-Brows-URL:before {
+    content: "\ec71";
+}
+
+.icon-BringToFront-New:before {
+    content: "\ec72";
+}
+
+.icon-SendToBack-New:before {
+    content: "\ec73";
+}
+
+.icon-QuestionMark-New:before {
+    content: "\ec74";
+}
+
+.icon-lesson-structure:before {
+    content: "\ec75";
+}
+
+.icon-Plus-Line:before {
+    content: "\ec76";
+}
+
+.icon-Notes-Thin:before {
+    content: "\ec77";
+}
+
+.icon-Home:before {
+    content: "\ec78";
+}
+
+.icon-Cloud-Drive:before {
+    content: "\ec79";
+}
+
+.icon-Presentation2:before {
+    content: "\ec7a";
+}
+
+.icon-Mindmap:before {
+    content: "\ec7b";
+}
+
+.icon-Private:before {
+    content: "\ec7c";
+}
+
+.icon-Public:before {
+    content: "\ec7d";
+}
+
+.icon-Add-Enrich:before {
+    content: "\ec7e";
+}
+
+.icon-Enrich:before {
+    content: "\ec7f";
+}
+
+.icon-Recent:before {
+    content: "\ec80";
+}
+
+.icon-Imports:before {
+    content: "\ec81";
+}
+
+.icon-Shared-Me:before {
+    content: "\ec82";
+}
+
+.icon-My-Books:before {
+    content: "\ec83";
+}
+
+.icon-Favorites-Fill:before {
+    content: "\ec84";
+}
+
+.icon-Folder-New:before {
+    content: "\ec85";
+}
+
+.icon-Back:before {
+    content: "\ec86";
+}
+
+.icon-Categories:before {
+    content: "\ec87";
+}
+
+.icon-Featured:before {
+    content: "\ec88";
+}
+
+.icon-Update:before {
+    content: "\ec89";
+}
+
+.icon-Font-Family:before {
+    content: "\ec8a";
+}
+
+.icon-Shape:before {
+    content: "\ec8b";
+}
+
+.icon-SWF-LinkImageLink:before {
+    content: "\ec8c";
+}
+
+.icon-SWF:before {
+    content: "\ec8d";
+}
+
+.icon-Presentation-V:before {
+    content: "\ec8e";
+}
+
+.icon-Presentation:before {
+    content: "\ec8f";
+}
+
+.icon-Book-Export:before {
+    content: "\ec90";
+}
+
+.icon-Drawing-config:before {
+    content: "\ec91";
+}
+
+.icon-BookSmartView:before {
+    content: "\ec92";
+}
+
+.icon-Page-Enrich:before {
+    content: "\ec94";
+}
+
+.icon-BookMark-V:before {
+    content: "\ec95";
+}
+
+.icon-BookSmartView-2:before {
+    content: "\ec96";
+}
+
+.icon-Page-Enrich-2:before {
+    content: "\ec97";
+}
+
+.icon-ELE:before {
+    content: "\ec98";
+}
+
+.icon-EBE:before {
+    content: "\ec99";
+}
+
+.icon-All:before {
+    content: "\ec9a";
+}
+
+.icon-InteractVideo-Question:before {
+    content: "\ec9b";
+}
+
+.icon-InteractVideo-Set:before {
+    content: "\ec9c";
+}
+
+.icon-Thumbnails:before {
+    content: "\10ffff";
+}
